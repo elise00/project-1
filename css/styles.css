@@ -35,7 +35,10 @@ h2 {
     padding: 15px;
 }
 img {
-    width: 100%;
+    max-width: 90%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     padding: 5px;
     margin-bottom: 15px;
     border-radius: 10px;
