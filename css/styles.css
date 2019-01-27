@@ -31,7 +31,7 @@ h2 {
 .well {
     background-color: #0C0238;
     border-radius: 10px;
-    border-color: blue;
+    border-color: black;
     padding: 15px;
 }
 img {
@@ -43,6 +43,13 @@ img {
     margin-bottom: 15px;
     border-radius: 10px;
 }
+
+#contact {
+    float: left;
+    width: 20%;
+    margin-right: 20px;
+}
+
 footer {
     font-family: 'Montserrat', sans-serif;
     display: flex;
